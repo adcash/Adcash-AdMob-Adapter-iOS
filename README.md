@@ -38,8 +38,8 @@ Click on **Custom Event** and it will open window for filling out information.
 
 Custom Event Information from:
 * **Class Name**
-- For Banner: "AdcashAdmobBanner"
-- For Interstitial: "AdcashAdmobInterstitial"
+  - For Banner: "AdcashAdmobBanner"
+  - For Interstitial: "AdcashAdmobInterstitial"
 * **Label:** Adcash
 * **Parameter:** Enter the zone ID from Adcash Publisher Panel
 
