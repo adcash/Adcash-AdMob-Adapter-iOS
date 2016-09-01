@@ -14,7 +14,7 @@ It's a simple 2-step process.
 + Drag and drop the file into your Xcode project.
 + Don't forget to check "Copy items if needed"
 
-IMAGE1
+![](http://developer.adca.sh/wp-content/uploads/2016/08/ScreenShot1.png)
 
 ##2. Configure Adcash Custom Event on AdMob Mediation Portal
 
@@ -24,17 +24,17 @@ On AdMob Mediation Portal, click on **Monetize tab** then select one of your app
 
 On Application page, select one of your **ad unit**(Adcash Admob iOS Adaptor currently supports Banner and Interstitial ad formats) and click on **Mediation** for adding new ad network.
 
-IMAGE2
+![](http://developer.adca.sh/wp-content/uploads/2016/08/ScreenShot2.png)
 
 On Mediation page, click on **new ad network** and open new window for configuring it.
 
-IMAGE3
+![](http://developer.adca.sh/wp-content/uploads/2016/08/ScreenShot3.png)
 
 ###2.2 Add Adcash Custom Ad Network
 
 Click on **Custom Event** and it will open window for filling out information.
 
-IMAGE4
+![](http://developer.adca.sh/wp-content/uploads/2016/08/ScreenShot4.png)
 
 Custom Event Information from:
 * **Class Name**
@@ -43,7 +43,7 @@ Custom Event Information from:
 * **Label:** Adcash
 * **Parameter:** Enter the zone ID from Adcash Publisher Panel
 
-IMAGE5
+![](http://developer.adca.sh/wp-content/uploads/2016/08/ScreenShot5.png)
 
 ##3. Release App
 
